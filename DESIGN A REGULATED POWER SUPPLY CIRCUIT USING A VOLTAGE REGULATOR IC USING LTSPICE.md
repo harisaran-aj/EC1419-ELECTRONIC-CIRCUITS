@@ -9,6 +9,7 @@
 ## Tabulations
 
 ## Graph
+![WhatsApp Image 2025-11-24 at 22 26 24_b3e5c073](https://github.com/user-attachments/assets/0de03f5a-84ac-44c9-995f-c30628e731b9)
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
