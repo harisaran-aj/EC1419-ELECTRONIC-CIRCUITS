@@ -16,10 +16,11 @@
 ## Tabulation
 
 ## Graph
+![WhatsApp Image 2025-11-24 at 22 25 07_cea80fff](https://github.com/user-attachments/assets/80ce748b-aee3-47e1-ac84-76186a5f2fa1)
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+Practical frequency of Oscillation = 50 HZ
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =1 KHZ
